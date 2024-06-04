@@ -1,7 +1,8 @@
 <h1 align="center">
   <div align="center">
     <a href="https://youtube.com/shorts/fAT6NGp1U5Q?si=s7YF93K12RaqxROy" target="_blank">
-      <img src="https://img.youtube.com/vi/-3eEzzKrywo/maxresdefault.jpg" width="480px">
+      <img src="![yt](https://github.com/namansingh1314/guitar-chord-recognition/assets/120774187/50011e9a-f56d-4841-801b-10ef86eda961)" width="480px">
+
     </a>
   </div>
   Chordy
@@ -47,7 +48,7 @@ For Windows / Linux users, a source build is mandatory.
 
 1. Begin by cloning the repository.
 ```bash
-$: git clone https://github.com/arulandu/chordy.git && cd chordy
+$: git clone https://github.com/namansingh1314/guitar-chord-recognition.git && cd chordy
 ```
 2. Use your python package manager to install the dependencies.
 ```bash
